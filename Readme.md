@@ -1,1 +1,0 @@
-# En este repositorio se subiran los ejercicios desarrollados en el bootcamp de java realizado por fundacion esplai,  tech talent, el SOC y ayuntamiento de Reus 
